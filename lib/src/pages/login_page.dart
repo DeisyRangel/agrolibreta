@@ -7,7 +7,7 @@ class LoginPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
       child: Center(
-        child: Text('datos inicio de sesion'),
+        child: Text('datos inicio de sesion n'),
       ),
     );
   }
